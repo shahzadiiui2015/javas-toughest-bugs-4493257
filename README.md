@@ -5,6 +5,7 @@ This is the repository for the LinkedIn Learning course Java's Toughest Bugs. Th
 
 Troubleshooting is a key skill in Java programming, but what are best practices for finding, fixing, and hopefully preventing bugs? In this course, software developer Kathryn Hodge addresses how to handle some of the toughest bugs you’ll encounter in Java. Gain an understanding of the significance and impact of bugs in Java applications while you discover various bug detection techniques and essential debugging fundamentals. Explore specific bug types, including null pointer exceptions, endless loops, and thread-related issues, and build up the knowledge and skills to address them. Plus, learn about bugs related to data serialization and deserialization using Jackson and step through real-world case studies for analyzing and solving complex bugs.
 
+
 ## Instructions
 For all chapters except for Chapter 4, the code is located on the main branch. To access the code from a given video, you’ll go to the appropriate chapter folder and then the appropriate video folder. For example, the code for Chapter 3 video 1 will be in the chapter 3 folder and the 03_01 folder. From here, we have two folders that have the beginning and end state of the code from the video. 03_01b has the beginning state and 03_01e is the end state. 
 
